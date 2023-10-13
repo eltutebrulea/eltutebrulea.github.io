@@ -1,0 +1,30 @@
+<html>
+<head>
+<title> Tablas </title>
+</head>
+<body>
+<h1> Primera tabla</h1>
+</br>
+<table>
+<th>
+<td>Nombre</td>
+<td>Apellido</td>
+<td>Edad</td>
+</th>
+<tr>
+<td> Elver </td>
+<td> Gara </td>
+<td> 29 </td>
+</tr>
+<tr>
+<td> Nicolas </td>
+<td> Bordaberri </td>
+<td> 34 </td>
+<tr>
+<td> Alberto </td>
+<td> Padentro </td>
+<td> 25 </td>
+</tr>
+</table>
+</body>
+</html>
